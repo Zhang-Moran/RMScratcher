@@ -1,8 +1,8 @@
 # RMScratcher 👋
-
 Welcome to my GitHub profile! We are passionate developers for building innovative software and hardware solutions. Here you will find a collection of RMScratcher.
+
 ![Face page](./Demo/images/Face_page.jpg)
-RMScratcher is A Real-time Multi-Channel Compact Rodent Scratching Behavior Recognition System based on Edge Computing.
+
 
 
 
@@ -26,7 +26,7 @@ This is just a demo. In actual use, due to the performance limitations of TX2, i
 * **Other Materials:** Metal plates, LED light panels, etc.
 
 ### Software Requirements
-
+PS: Original Code has Pulished now!
 * **Languages:** Python
 * **Libraries:** Install the required libraries using pip:
   `pip install -r requirements.txt`
